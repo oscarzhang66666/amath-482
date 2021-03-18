@@ -1,7 +1,7 @@
 # amath-482
 This is the repositories for my projects done in Amath 482.
 
-The first project： Submarine Problem
+The first project：Submarine Problem
 
 The second project: Rock & Roll and the Gabor Transform
 
